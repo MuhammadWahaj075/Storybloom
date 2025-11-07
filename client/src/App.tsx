@@ -14,11 +14,15 @@ import { Textarea } from "@/components/ui/textarea";
 
 // Import components
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import ChatInterface from "@/components/ChatInterface";
 import StoryPageEditor from "@/components/StoryPageEditor";
 import StoryPreview from "@/components/StoryPreview";
 import { CartoonStyleSelector, type CartoonStyle } from "@/components/CartoonStyleSelector";
+import Pricing from "@/pages/Pricing";
+import Terms from "@/pages/Terms";
+import Privacy from "@/pages/Privacy";
 
 // Import sample image
 import sampleImage from "@assets/generated_images/Sample_storybook_page_illustration_9b27cb31.png";
@@ -331,12 +335,9 @@ function StoryCreator() {
   };
 
   return (
-    <div className="min-h-screen bg-background text-foreground transition-colors">
-      <Header />
-      <main className="pb-12">
-        {renderCurrentStep()}
-      </main>
-    </div>
+    <main className="pb-12">
+      {renderCurrentStep()}
+    </main>
   );
 }
 
@@ -344,6 +345,9 @@ function Router() {
   return (
     <Switch>
       <Route path="/" component={StoryCreator} />
+      <Route path="/pricing" component={Pricing} />
+      <Route path="/terms" component={Terms} />
+      <Route path="/privacy" component={Privacy} />
       <Route>
         <div className="flex items-center justify-center min-h-screen">
           <div className="text-center">
@@ -362,8 +366,14 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
+        <div className="flex flex-col min-h-screen bg-background text-foreground transition-colors">
+          <Header />
+          <div className="flex-1">
+            <Router />
+          </div>
+          <Footer />
+        </div>
         <Toaster />
-        <Router />
       </TooltipProvider>
     </QueryClientProvider>
   );

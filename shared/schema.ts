@@ -1,5 +1,5 @@
 import { sql } from "drizzle-orm";
-import { pgTable, text, varchar, integer, timestamp, boolean } from "drizzle-orm/pg-core";
+import { pgTable, text, varchar, integer, timestamp } from "drizzle-orm/pg-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
@@ -10,32 +10,16 @@ export const users = pgTable("users", {
 });
 
 // Stories table
-export const stories = pgTable(
-  "stories",
-  {
-    id: varchar("id").primaryKey().default(sql`gen_random_uuid()`),
-    title: text("title").notNull(),
-    author: text("author").notNull().default("You & AI"),
-    description: text("description"),
-    status: text("status").notNull().default("draft"), // draft, generating, complete, error
-    totalPages: integer("total_pages").notNull().default(10),
-    isPublic: boolean("is_public").default(false),
-    isActive: boolean("is_active").default(true),
-    createdAt: timestamp("created_at").defaultNow(),
-    updatedAt: timestamp("updated_at").defaultNow(),
-    generationStatus: text("generation_status", { enum: ["PENDING", "COMPLETED", "FAILED"] }).default("PENDING"),
-  },
-  (table) => {
-    return {
-      ...table,
-      // Triggers
-      // @ts-ignore
-      insert: table.insert.trigger("set_default_values"),
-      // @ts-ignore
-      update: table.update.trigger("set_updated_at"),
-    };
-  }
-);
+export const stories = pgTable("stories", {
+  id: varchar("id").primaryKey().default(sql`gen_random_uuid()`),
+  title: text("title").notNull(),
+  author: text("author").notNull().default("You & AI"),
+  description: text("description"),
+  status: text("status").notNull().default("draft"), // draft, generating, complete, error
+  totalPages: integer("total_pages").notNull().default(10),
+  createdAt: timestamp("created_at").defaultNow(),
+  updatedAt: timestamp("updated_at").defaultNow(),
+});
 
 // Story pages table
 export const storyPages = pgTable("story_pages", {
@@ -47,16 +31,6 @@ export const storyPages = pgTable("story_pages", {
   imageUrl: text("image_url"),
   createdAt: timestamp("created_at").defaultNow(),
   updatedAt: timestamp("updated_at").defaultNow(),
-});
-
-export const editStoryRequestSchema = z.object({
-  title: z.string().optional(),
-  pages: z.array(z.object({
-    pageNumber: z.number().positive(),
-    text: z.string().optional(),
-    imagePrompt: z.string().optional(),
-    shouldRegenerateImage: z.boolean().optional(),
-  })).optional(),
 });
 
 // Insert schemas
@@ -99,7 +73,6 @@ export const createStoryRequestSchema = z.object({
 export const updatePageRequestSchema = z.object({
   text: z.string().optional(),
   imagePrompt: z.string().optional(),
-  shouldRegenerateImage: z.boolean().optional(),
 });
 
 export const generateImageRequestSchema = z.object({
@@ -109,4 +82,3 @@ export const generateImageRequestSchema = z.object({
 export type CreateStoryRequest = z.infer<typeof createStoryRequestSchema>;
 export type UpdatePageRequest = z.infer<typeof updatePageRequestSchema>;
 export type GenerateImageRequest = z.infer<typeof generateImageRequestSchema>;
-export type EditStoryRequest = z.infer<typeof editStoryRequestSchema>;

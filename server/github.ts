@@ -59,7 +59,7 @@ async function createOrGetRepository(owner, repoName) {
       // Repository doesn't exist, create it
       const { data: repo } = await octokit.rest.repos.createForAuthenticatedUser({
         name: repoName,
-        description: "StoryMagic - AI-powered children's storybook creator",
+        description: "StoryBloom - AI-powered children's storybook creator",
         private: false,
       });
       return repo;

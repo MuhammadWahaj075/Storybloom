@@ -61,7 +61,7 @@ async function commitCodebaseToGithub(owner, repoName) {
       owner,
       repoName,
       files,
-      'Initial commit: StoryMagic children\'s storybook creator with cartoon style selection'
+      'Initial commit: StoryBloom children\'s storybook creator with cartoon style selection'
     );
     
     console.log(`Successfully committed to repository: ${commit.html_url}`);

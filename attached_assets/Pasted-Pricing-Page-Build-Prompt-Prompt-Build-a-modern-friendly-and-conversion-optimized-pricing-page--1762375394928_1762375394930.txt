@@ -1,0 +1,125 @@
+Pricing Page Build Prompt
+
+Prompt:
+
+Build a modern, friendly, and conversion-optimized pricing page for StoryBloom.ai, a children’s AI story-creation website. The tone should feel magical, warm, and family-friendly — like Disney meets modern SaaS. Use a purple-to-gold gradient theme similar to the StoryBloom.ai logo.
+
+🎯 Core Pricing
+
+Include two major product sections:
+
+⭐ Digital Story Package
+
+$2.99
+
+Download-only
+
+Any story length or book size included
+
+User receives a beautifully formatted, printable PDF
+
+Feature bullets:
+
+Create unlimited stories
+
+Download in full-color PDF
+
+Read digitally or print at home
+
+Great for bedtime & creative play
+
+Label this as:
+Digital Storybook (Download Only)
+
+Include a tagline like:
+
+Bring your story to life instantly — no printing required.
+
+Button: Create My Story
+
+📦 Printed Storybook Packages
+
+Show 3 options side-by-side like premium product tiers:
+
+Plan	Price	Pages	Tagline
+Softcover Story	$16.99	10 pages	A magical keepsake
+Deluxe Edition	$18.99	15 pages	Our most popular!
+Collector Edition	$20.99	20 pages	Bigger adventure, more memories
+
+Features for all printed plans:
+
+Premium full-color printing
+
+Professionally bound
+
+Shipped to your home
+
+Perfect as a gift or keepsake
+
+Add a badge on the middle option:
+Most Popular ⭐
+
+Call-to-Action button for each:
+Print My Storybook
+
+🚚 Shipping Options
+
+Show below printed packages:
+
+Method	Price	Delivery Time
+Standard	$6.69	11-13 days
+Express	$21.74	6-8 days
+
+Add emotional micro-text:
+
+Every book is made-to-order with care.
+
+🎨 Design & Tone Requirements
+
+Clean, warm, kid-friendly design
+
+Rounded card boxes, soft drop shadows
+
+Cute subtle icons (book, sparkles, shipping box)
+
+✅ Clear value
+
+✅ Emotional selling
+
+✅ Buttons above the fold and after pricing grid
+
+Add confetti or sparkles when user selects a plan (feel-good magic moment)
+
+Use headlines like:
+
+Choose Your Story Adventure
+
+Make Your Story Real
+
+Digital Magic or Printed Keepsake?
+
+Short sub-copy:
+
+Every child deserves to be the hero of their story.
+
+🧼 Trust / Confidence Elements
+
+Add below pricing:
+
+✅ Safe & secure checkout
+
+✅ Kid-friendly platform
+
+✅ Proudly printing stories worldwide
+
+⭐ Testimonials placeholder with parent quotes & child photos (mock version)
+
+📢 Final CTA Section
+
+Large banner at bottom:
+
+Ready to bring your imagination to life?
+
+Button: Start Creating Now
+
+Add magical sparkles or a book icon.

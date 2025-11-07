@@ -1,0 +1,153 @@
+StoryBloom.ai – Terms of Service
+
+Last Updated: [Month Day, Year]
+
+Welcome to StoryBloom.ai (“StoryBloom,” “we,” “us,” or “our”).
+These Terms of Service (“Terms”) govern your access to and use of our website, mobile applications, and related products and services (collectively, the “Services”).
+
+By accessing or using StoryBloom.ai, you agree to these Terms. If you do not agree, please do not use our Services.
+
+1. Overview of Our Services
+
+StoryBloom.ai is an AI-powered creative platform that allows users to generate personalized stories, illustrations, and printed storybooks using artificial intelligence. The Services may include interactive story creation, AI-generated imagery, downloadable digital content, and made-to-order printed books.
+
+2. Eligibility
+
+You must be at least 13 years old (or the minimum age of digital consent in your jurisdiction) to use our Services.
+If you are under 18, you may only use StoryBloom.ai under the supervision of a parent or guardian who agrees to these Terms.
+
+3. Accounts and Security
+
+You may need to create an account to access certain features. You agree to:
+
+Provide accurate and complete information.
+
+Keep your login credentials secure.
+
+Notify us immediately if you suspect unauthorized access to your account.
+
+You are responsible for all activity that occurs under your account.
+
+4. User Content & AI-Generated Content
+(a) Your Input
+
+You may submit text, prompts, images, or other materials (“User Input”) to generate stories or illustrations.
+You retain ownership of your User Input.
+
+(b) AI-Generated Output
+
+Our AI models use your input to generate creative works (“Output”). StoryBloom.ai does not claim ownership of your Output. However, by using our Services, you grant us a non-exclusive, worldwide, royalty-free license to:
+
+Display, host, and reproduce your Output as needed to operate the Services.
+
+Use anonymized examples of generated content for product improvement, marketing, and training purposes (unless you opt out by emailing support@storybloom.ai
+).
+
+You are responsible for reviewing and approving all generated content prior to sharing, publishing, or purchasing.
+
+StoryBloom.ai provides previews of stories and images before checkout. By completing a purchase (digital or printed), you acknowledge that you have reviewed the story, text, and images and that they meet your satisfaction and quality standards.
+If you are not satisfied with the preview, it is your responsibility to make edits or choose not to proceed with the purchase.
+
+Because AI-generated content is user-directed and variable, all sales are final once a digital download or print order is placed.
+
+You are also responsible for reviewing all generated content for accuracy, appropriateness, and suitability before distributing or sharing it publicly.
+
+5. Intellectual Property Rights
+
+All trademarks, logos, software, code, and content not created by users or AI generation are the property of StoryBloom.ai or its licensors.
+You may not reproduce, distribute, modify, or create derivative works from any part of our Services except as expressly permitted in these Terms.
+
+6. Use Restrictions
+
+You agree not to:
+
+Use the Services to generate or share unlawful, harmful, defamatory, or obscene content.
+
+Attempt to extract, reverse-engineer, or interfere with the underlying AI models.
+
+Present AI-generated content as human-authored without clear disclosure.
+
+Misuse the Services to infringe upon the rights of others.
+
+StoryBloom.ai reserves the right to suspend or terminate accounts that violate these rules.
+
+7. AI Limitations and Disclaimers
+
+StoryBloom.ai uses artificial intelligence to generate creative works. You understand and agree that:
+
+AI outputs may include errors, inaccuracies, or unintended content.
+
+Generated content is not guaranteed to be unique or free from similarity to existing works.
+
+You are solely responsible for reviewing all story and image previews prior to purchasing, sharing, or publishing.
+
+StoryBloom.ai disclaims all liability for dissatisfaction with AI-generated stories, text, or imagery after purchase.
+
+You are responsible for ensuring any content you publish or share complies with applicable laws and community standards.
+
+8. Printed Books and Orders
+
+If you order a physical book:
+
+Prices, taxes, and shipping fees are displayed at checkout.
+
+Delivery times are estimates and may vary.
+
+Because each book is made-to-order based on AI-generated content, no refunds or reprints will be issued for dissatisfaction related to story content, image quality, or style.
+
+You are responsible for verifying that the digital preview meets your expectations before placing an order.
+
+We will replace or reprint only in the event of a manufacturing or printing defect (e.g., damaged or missing pages).
+
+In test or beta periods, you may be asked to use temporary payment methods or test credit cards.
+
+9. Privacy
+
+Your privacy is important to us. Please review our Privacy Policy
+ to understand how we collect, use, and safeguard information.
+
+StoryBloom.ai does not knowingly collect personal data from children under 13. If we learn that we have inadvertently collected such data, we will promptly delete it.
+
+10. Payment Terms
+
+Payments are processed through secure third-party providers (e.g., Stripe).
+By submitting payment information, you authorize StoryBloom.ai and its payment processor to charge your account for purchases made through the platform.
+
+All payments are final unless otherwise stated in these Terms.
+
+11. Termination
+
+We may suspend or terminate access to our Services at any time, with or without notice, for violation of these Terms or to protect our systems and users.
+
+You may also terminate your account at any time by contacting support@storybloom.ai
+.
+
+12. Indemnification
+
+You agree to indemnify and hold harmless StoryBloom.ai, its affiliates, officers, and employees from any claims, liabilities, or damages arising from your use of the Services, your generated content, or any violation of these Terms.
+
+13. Disclaimer of Warranties
+
+Our Services are provided “as is” and “as available.”
+We make no warranties, express or implied, regarding the accuracy, quality, or reliability of any AI-generated content or the operation of our Services.
+
+14. Limitation of Liability
+
+To the fullest extent permitted by law, StoryBloom.ai and its affiliates are not liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the Services or any AI-generated content, even if we have been advised of the possibility of such damages.
+
+15. Modifications to the Service
+
+We may modify, update, or discontinue any aspect of the Services at any time without notice.
+We may also update these Terms periodically. The updated version will take effect upon posting, and your continued use of the Services constitutes acceptance of the new Terms.
+
+16. Governing Law
+
+These Terms are governed by the laws of the State of [Your State], without regard to its conflict-of-law principles.
+Any disputes shall be resolved exclusively in the courts located in [Your County, Your State].
+
+17. Contact Us
+
+If you have questions about these Terms, please contact us at:
+📧 support@storybloom.ai
+
+🌐 www.storybloom.ai

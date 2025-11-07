@@ -2,7 +2,7 @@
 
 ## Overview
 
-StoryMagic is a web application that enables users to create personalized children's storybooks using AI-powered content generation. The platform combines OpenAI's text generation capabilities with Google's Gemini image generation to produce complete storybooks with both text and illustrations. Users interact through a conversational chat interface to describe their story ideas, which are then transformed into multi-page illustrated books with options for editing, previewing, and exporting.
+StoryBloom is a web application that enables users to create personalized children's storybooks using AI-powered content generation. The platform combines OpenAI's text generation capabilities with Google's Gemini image generation to produce complete storybooks with both text and illustrations. Users interact through a conversational chat interface to describe their story ideas, which are then transformed into multi-page illustrated books with options for editing, previewing, and exporting.
 
 ## User Preferences
 

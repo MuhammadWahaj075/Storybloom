@@ -1,0 +1,139 @@
+Last updated: [Insert Date]
+
+Welcome to StoryBloom.ai (“StoryBloom,” “we,” “us,” or “our”).
+This Privacy Policy explains how we collect, use, share, and protect information when you visit or use our website, StoryBloom.ai (the “Site”), or any of our services, including AI-generated story and image creation tools (collectively, the “Services”).
+
+By using our Services, you agree to the terms of this Privacy Policy. If you do not agree, please do not use StoryBloom.ai.
+
+1. Information We Collect
+
+We collect the following types of information:
+
+a. Information You Provide
+
+Account Information: When you create an account, we may collect your name, email address, username, and password.
+
+Payment Information: If you make a purchase, your payment details (e.g., credit/debit card number, billing address) are collected by our secure payment processor (e.g., Stripe). We do not store your full payment card details.
+
+Generated Content: Any stories, images, or other creative works generated through the platform, including titles, prompts, and customizations you input.
+
+Communications: When you contact us for support or feedback, we may collect your message and contact details.
+
+b. Information Collected Automatically
+
+Usage Data: We may collect information about how you interact with our Services, such as pages visited, features used, and time spent.
+
+Device Information: Includes your browser type, device model, operating system, IP address, and general location.
+
+Cookies and Tracking Technologies: We use cookies to improve user experience, analytics, and personalization. You can manage cookie preferences in your browser settings.
+
+2. How We Use Your Information
+
+We use your information to:
+
+Provide, maintain, and improve our Services.
+
+Personalize story and image generation experiences.
+
+Facilitate account creation, logins, and purchases.
+
+Send important updates, support messages, and confirmations.
+
+Analyze trends and improve our website performance.
+
+Ensure compliance with our Terms of Service and prevent misuse.
+
+We do not sell your personal information to third parties.
+
+3. User Responsibility for Content
+
+StoryBloom.ai provides AI-generated stories and illustrations based on your prompts.
+You are responsible for reviewing and previewing the generated content before purchasing or downloading any final version.
+
+By proceeding with a purchase, you acknowledge that:
+
+You have reviewed the preview of your story and images.
+
+You accept responsibility for any perceived quality issues, such as image clarity, AI-generated text, or content suitability.
+
+You agree that StoryBloom.ai is not obligated to offer refunds or replacements for dissatisfaction with the AI-generated outcome.
+
+If you wish to make edits or adjustments, you may do so before checking out.
+
+4. Sharing and Disclosure
+
+We may share information with:
+
+Service Providers: For payment processing, hosting, analytics, and customer support.
+
+Legal Authorities: If required by law, or to protect the safety, rights, or property of StoryBloom.ai, users, or the public.
+
+Business Transfers: In case of a merger, acquisition, or sale of assets, your data may be transferred as part of that process.
+
+We never share user-generated stories or content publicly without your explicit consent.
+
+5. Data Storage and Security
+
+We use industry-standard security measures to protect your personal data, including encryption, secure servers, and restricted access.
+However, no online service is completely secure. You acknowledge and accept this risk by using our platform.
+
+6. Data Retention
+
+We retain your information as long as your account is active or as needed to:
+
+Provide Services,
+
+Comply with legal obligations,
+
+Resolve disputes, or
+
+Enforce our agreements.
+
+You may request deletion of your account and associated data at any time (see Section 10 below).
+
+7. AI-Generated Content and Data Use
+
+When you use our AI tools, your input (prompts, edits, and text) may be temporarily stored to improve response quality and system performance.
+StoryBloom.ai does not use your content for external model training, nor does it make your creations publicly viewable without consent.
+
+8. Children’s Privacy
+
+StoryBloom.ai is designed for families and parents to create stories with or for children, but our Services are intended for adult users (18+) who manage accounts and purchases.
+We do not knowingly collect personal information from children under 13.
+If you believe a child has provided us personal data, please contact us to delete it immediately.
+
+9. Third-Party Links
+
+Our Site may contain links to third-party websites or services not operated by StoryBloom.ai.
+We are not responsible for their privacy practices.
+Please review their policies before providing personal information.
+
+10. Your Rights and Choices
+
+You have the right to:
+
+Access, update, or delete your personal data.
+
+Request a copy of the data we hold about you.
+
+Opt out of marketing emails at any time (via the unsubscribe link).
+
+Disable cookies through browser settings.
+
+To exercise your privacy rights, contact us at:
+📧 privacy@storybloom.ai
+
+11. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+All changes will be posted on this page with the updated date.
+Your continued use of the Site after updates constitutes acceptance of the revised policy.
+
+12. Contact Us
+
+If you have any questions, concerns, or complaints regarding this Privacy Policy, please contact us:
+
+StoryBloom.ai
+Email: privacy@storybloom.ai
+
+Website: https://storybloom.ai
